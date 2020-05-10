@@ -1,2 +1,6 @@
-This is my favorite color
+This is my favorite colors 
 Blue 
+Red 
+Yello 
+Pink 
+Purple 
